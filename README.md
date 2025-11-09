@@ -31,7 +31,10 @@ Every repository here is **open for learning and adaptation** — built to **sha
 ## ☕ Support My Work
 
 If my open-source projects, articles, or resources have helped you, consider supporting me:  
-👉 [**Buy me a coffee**](https://buymeacoffee.com/st.chiotis)
+
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=st.chiotis&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/st.chiotis)
+
 
 Your support helps me dedicate more time to creating educational content, open tools, and resources that make data engineering more approachable and impactful.
 
