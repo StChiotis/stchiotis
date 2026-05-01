@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Stelios (Stylianos)
 
-🚀 **Engineering for companies that weren't built for tech · Writing the playbook as I go**
+🚀 **Reshapes systems · Questions the defaults · Writes the playbook**
 
 I'm an engineer who reshapes systems inside companies that weren't built for tech — and writes the playbook as I go.
 
