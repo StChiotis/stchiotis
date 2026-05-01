@@ -2,41 +2,25 @@
 
 🚀 **Engineering for companies that weren't built for tech · Writing the playbook as I go**
 
-I am a multidisciplinary Engineer passionate about leveraging cloud computing, data architecture, and IoT-driven analytics to solve real-world challenges. 
+I'm an engineer who reshapes systems inside companies that weren't built for tech — and writes the playbook as I go.
 
-With a proven track record in scalable cloud solutions, real-time data pipelines, and BI platform development, I help organizations transform raw data into actionable insights that drive efficiency and innovation.
+Thirteen years across Marine Engineering, EAM, IoT, Data Architecture, and now AI-native engineering — the same friction keeps showing up wherever software has to grow inside an organization that wasn't built around it.
 
-My expertise spans cloud data engineering, ETL/ELT automation, data modeling, Industrial IoT integration, Power BI development, and KPI & SLA performance monitoring. 
-
-I thrive at the intersection of data and business strategy, applying analytical thinking, cross-functional leadership, and Agile methodologies to optimize decision-making and business performance.
+This GitHub is where I codify what's working, ship what's still in hypothesis state, and stress-test it in public. 
 
 ---
 
 ## 🌍 What You’ll Find Here
 
 This GitHub is my **innovation workspace** — a living collection of projects linked to my articles and research on the practical edge of data engineering and applied AI.
-
 Each project represents a journey of exploration — blending automation, analytics, and intelligent decision systems across industries.
 
 Recent and upcoming projects include:
+- 🧱 **Library-First Engineering (LFE)** — Documentation-as-Infrastructure protocol for AI-native engineering.
 - 🛒 **AI Supermarket Parser** — extracting and structuring flyer data across the NL retail market  
-- 🤖 **AI Assistant for Power BI** — automating report generation and dataset management
-- 💹 **ETF Diversification Project** — building a transparent framework for long-term investment allocation  
-- 🏡 **NL Housing Market Analysis** — a data-driven perspective on property value and investment strategy  
-
-Every repository here is **open for learning and adaptation** — built to **share ideas**, not to gate them.
-
----
-
-## ☕ Support My Work
-
-If my open-source projects, articles, or resources have helped you, consider supporting me:  
 
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=st.chiotis&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/st.chiotis)
-
-
-Your support helps me dedicate more time to creating educational content, open tools, and resources that make data engineering more approachable and impactful.
+Every repository here is **open for adaptation, critique, and forking** — built to **share ideas**, not to gate them.
 
 ---
 
