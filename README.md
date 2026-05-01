@@ -6,8 +6,6 @@ I'm an engineer who reshapes systems inside companies that weren't built for tec
 
 Thirteen years across Marine Engineering, EAM, IoT, Data Architecture, and now AI-native engineering — the same friction keeps showing up wherever software has to grow inside an organization that wasn't built around it.
 
-This GitHub is where I codify what's working, ship what's still in hypothesis state, and stress-test it in public. 
-
 ---
 
 ## 🌍 What You’ll Find Here
