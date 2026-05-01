@@ -4,7 +4,7 @@
 
 I'm an engineer who reshapes systems inside companies that weren't built for tech — and writes the playbook as I go.
 
-Thirteen years across Marine Engineering, EAM, IoT, Data Architecture, and now AI-native engineering — the same friction keeps showing up wherever software has to grow inside an organization that wasn't built around it.
+Thirteen years across Marine Engineering, EAM, IoT, Data Science, and now AI-native engineering — the same friction keeps showing up wherever software has to grow inside an organization that wasn't built around it.
 
 ---
 
