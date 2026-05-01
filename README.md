@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Stelios (Stylianos)
 
-🚀 **Data & Reliability Engineer | Systems Architect | Digital Transformation Catalyst**
+🚀 **Engineering for companies that weren't built for tech · Writing the playbook as I go**
 
 I am a multidisciplinary Engineer passionate about leveraging cloud computing, data architecture, and IoT-driven analytics to solve real-world challenges. 
 
