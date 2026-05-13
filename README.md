@@ -12,8 +12,11 @@ This GitHub is my **innovation workspace** — a living collection of projects l
 Each project represents a journey of exploration — blending automation, analytics, and intelligent decision systems across industries.
 
 Recent and upcoming projects include:
-- 🧱 **Library-First Engineering (LFE)** — Documentation-as-Infrastructure protocol for AI-native engineering.
-- 🛒 **AI Supermarket Parser** — extracting and structuring flyer data across the NL retail market  
+- 🧱 **[Library-First Engineering (LFE)](https://github.com/StChiotis/Library-First-Engineering)** — a framework to build your Agentic-AI Applications !
+    - _ready to strengthen your ideas for enterprise scale?_
+- 🛒 **[AI Supermarket Parser](https://github.com/StChiotis/ai_prise_parser_pipeline)** — real-world end-to-end AI pipeline that saves you money on groceries this week, not someday !
+    - _parses every Dutch supermarket flyer into one searchable deals database._
+- 📊 **[Claude Realtime Dashboard](https://github.com/StChiotis/claude-realtime-dashboard)** — kills Claude Code bill shock and rate-limit surprises with live per-turn cost deltas in your statusline !
 
 
 Every repository here is **open for adaptation, critique, and forking** — built to **share ideas**, not to gate them.
